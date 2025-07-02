@@ -1,6 +1,8 @@
 import os
 import eel
 from backend.feature import *
+from backend.command import *
+
 
 eel.init('frontend')
 
